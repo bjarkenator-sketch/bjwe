@@ -38,4 +38,4 @@ jobs:
           ls
           whoami
           df -h
-          
+          echo "GIEK WAS HERE!"
